@@ -107,7 +107,7 @@ The solution follows a standard fine-tuning and inference pipeline:
     *   Machine Translation: CHaR-F Score
 *   **Final Score Calculation:** `zindi_score = (0.389459491 + (1-(0.66))*0.389459491 )/2`
     *   `PrivateLB_score`: Score achieved on the private leaderboard. 0.389459491
-    *   `size`: Number of parameters in the submitted model = **664,160,256** **~0.66B**.
+    *   `size`: Number of parameters in the submitted model = **664,160,256** (~0.66 billion).
     *   `PARAM_SIZE`: Size of the original InkubaLM-0.4B model
     
 *   **Reported Scores:**
